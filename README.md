@@ -2,9 +2,9 @@
 
 Hey, I discovered this world about 4 years ago! I gradually improved myself. Let's take a look at my work together. 
 
-♠ I know Typescript, Javascript and HTML/CSS.
-♠ I have my own Discord verified bot.
-♠ I have an acceptable level of C # - C ++ knowledge.
+♠ I know Typescript, Javascript and HTML/CSS. \n
+♠ I have my own Discord verified bot.\n
+♠ I have an acceptable level of C # - C ++ knowledge.\n
 
 [![@itami in discord](https://img.shields.io/twitter/url?label=Itami%230001&logo=discord&style=flat-square&url=https%3A%2F%2Fnpmjs.com%2F~itami)](https://discord.com)
 
