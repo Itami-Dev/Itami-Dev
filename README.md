@@ -1,9 +1,9 @@
 # What's up guys 👋 
 
-Hey, I discovered this world about 4 years ago! I gradually improved myself. Let's take a look at my work together. 
+Hey, I discovered this world about 5 years ago! I gradually improved myself. Let's take a look at my work together. 
 
 ♠ 
-♠ I have my own Discord verified bot and I know Typescript, Javascript and HTML/CSS. 
+♠ I was have my own Discord verified bot and I know Typescript, Javascript and HTML/CSS. 
 
 
 
