@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Itami</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://Itami-Dev.github.io/profile/">Itami</a></h2>
 <p align="center">
   <a href="https://www.discord.com/user/765253997980155904/">Discord</a> •
   <a href="https://www.instagram.com/itami.wr/">Instagram</a> •
